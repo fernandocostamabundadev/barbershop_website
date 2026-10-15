@@ -15,3 +15,4 @@ Abra o ficheiro `index.html` num navegador. O formulário de contacto é demonst
 
 Este projeto foi inspirado no tutorial [Responsive Barbershop Website](https://youtu.be/7zjrsmMYPyY), de [Bedimcode](https://www.youtube.com/@Bedimcode).
 # barbershop_website
+# barbershop_website
